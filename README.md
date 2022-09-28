@@ -6,7 +6,8 @@
 
 **Descrição do curso:** Aprender SQL é uma das maneiras mais rápidas de melhorar suas perspectivas de carreira, pois é uma das habilidades de tecnologia mais exigida atualmente!  Se você quer aprender mais sobre aspectos técnicos que envolvem a sua hospedagem de sites, você também está no lugar certo!  Neste curso, você aprenderá tudo o que precisa para se tornar um SQL Pro!
 
-**Ementa do curso:** 
+**Ementa do curso:**
+
 • Fundamentos da sintaxe SQL  
 • Analise de dados usando funções agregadas com comandos GROUP BY  
 • Executar consultas avançadas com operações de string e operações de comparação  
