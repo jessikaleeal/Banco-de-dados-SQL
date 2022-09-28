@@ -1,12 +1,15 @@
 # Banco-de-dados-SQL
 
 **Descrição Curso:**
+
 Banco de Dados SQL ao Avançado 2022
 
 **Objetivo:**
+
 Aprender conceitos básicos do MySQL.
 
 **Descrição do curso:**
+
 Aprender SQL é uma das maneiras mais rápidas de melhorar suas perspectivas de carreira, pois é uma das habilidades de tecnologia mais exigida atualmente!  Se você quer aprender mais sobre aspectos técnicos que envolvem a sua hospedagem de sites, você também está no lugar certo!  Neste curso, você aprenderá tudo o que precisa para se tornar um SQL Pro!
 
 **Ementa do curso:**
